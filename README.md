@@ -5,13 +5,11 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=SeyithanDilek)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-</details>
-<h4 align="center">Visitor count</h4>
-<p align="center"> 
+ <h4 align="center">Visitor count</h4>
+<p align="right"> 
   <img src="https://profile-counter.glitch.me/seyithandilek/count.svg" />
 </p>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=SeyithanDilek)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+</details>
+
