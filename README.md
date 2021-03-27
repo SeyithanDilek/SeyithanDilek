@@ -6,7 +6,6 @@
 
 ### Connect with me 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/seyithan-dilek/) 
-<h4 align="center">Visitor count</h4>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/seyithandilek/count.svg" />
 </p>
